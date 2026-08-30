@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "keys": [
+    { "key": "PHUHO-7D-0001-2227D242", "hwid": "*", "expires": 1788713640, "plan": "7d" },    { "key": "PHUHO-7D-0002-0ED1F91D", "hwid": "*", "expires": 1788713640, "plan": "7d" },    { "key": "PHUHO-7D-0003-EE981B85", "hwid": "*", "expires": 1788713640, "plan": "7d" },
+    { "key": "PHUHO-1D-0001-5492DA58", "hwid": "*", "expires": 1788195836, "plan": "1d" },    { "key": "PHUHO-1D-0002-59260D7F", "hwid": "*", "expires": 1788195836, "plan": "1d" },    { "key": "PHUHO-1D-0003-9622E8FE", "hwid": "*", "expires": 1788195836, "plan": "1d" },
+    { "key": "PHUHO-30D-0001-A32996D3", "hwid": "*", "expires": 1790701449, "plan": "30d" },    { "key": "PHUHO-30D-0002-1F498D2E", "hwid": "*", "expires": 1790701449, "plan": "30d" },    { "key": "PHUHO-30D-0003-F79B8AEA", "hwid": "*", "expires": 1790701449, "plan": "30d" },
+    { "key": "PHUHO-7D-0001-2E694059", "hwid": "*", "expires": 1788714258, "plan": "7d" },    { "key": "PHUHO-7D-0002-B6958B0F", "hwid": "*", "expires": 1788714258, "plan": "7d" },    { "key": "PHUHO-7D-0003-8651EA20", "hwid": "*", "expires": 1788714258, "plan": "7d" },    { "key": "PHUHO-7D-0004-493504A7", "hwid": "*", "expires": 1788714258, "plan": "7d" }
+  ]
+}
